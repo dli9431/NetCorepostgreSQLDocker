@@ -91,6 +91,7 @@
     ]
   },
   "commands": {
-    "ef": "EntityFrameworkCore.Commands"
+    "ef": "EntityFrameworkCore.Commands",
+    "web": "Microsoft.AspNet.Server.Kestrel –server.urls http://0.0.0.0:5004"
   }
 }
