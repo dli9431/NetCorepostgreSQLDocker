@@ -63,7 +63,8 @@
     }
   },
   "frameworks": {
-    "net452": {}
+    "net451": { }
+
   },
   "buildOptions": {
     "emitEntryPoint": true,
